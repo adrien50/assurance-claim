@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun May 17 17:44:18 2020
 
-@author: ankit
-"""
 
 from flask import Flask,request #import main Flask Class and request
 import pandas as pd
